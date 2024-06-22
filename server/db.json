@@ -1,0 +1,30 @@
+{
+  "cuenta": [
+    {
+      "nombre": "user",
+      "cuenta": 3
+    },
+    {
+      "nombre": "admin",
+      "cuenta": 12
+    },
+    {
+      "nombre": "web",
+      "cuenta": 4
+    }
+  ],
+  "importe": [
+    {
+      "nombre": "user",
+      "importe": 195
+    },
+    {
+      "nombre": "admin",
+      "importe": 2395
+    },
+    {
+      "nombre": "web",
+      "importe": 43195
+    }
+  ]
+}
